@@ -6,3 +6,5 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # User specific environment and startup programs
+alias vi='nvim'
+alias vim='nvim'
